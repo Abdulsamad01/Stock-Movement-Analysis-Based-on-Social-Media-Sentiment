@@ -3,14 +3,6 @@ import pandas as pd
 import re
 from datetime import datetime
 
-# +
-# # Set up Reddit authentication
-# reddit = praw.Reddit(
-#     client_id='LHhkdd-Js1WB1oZvUZGRnA',  # Replace with your actual client_id
-#     client_secret='cRNKh0qJUdvrcZ8Frj5rhq-55tze2g',  # Replace with your actual client_secret
-#     user_agent='my_reddit_scraper by /u/Mean-Ad-8092'  # e.g., 'stock_scraper by /u/your_username'
-# )
-
 # Set up Reddit authentication
 reddit = praw.Reddit(
     client_id='Izqe2NXp2bcmRtP-iC9r4w',  # Replace with your actual client_id
