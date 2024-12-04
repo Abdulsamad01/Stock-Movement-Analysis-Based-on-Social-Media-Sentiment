@@ -25,12 +25,19 @@ This project leverages Natural Language Processing (NLP) and machine learning to
    pip install -r requirements.txt
    
 4. Running the Project
+   
     Step 1: Setup Reddit API Credentials
+   
             Create a Reddit account (if you don't have one).
+   
             Go to Reddit's Developer Portal.
+   
             Create a new application to obtain your client ID, client secret, and user agent.
+   
             Add your credentials to the project by updating the relevant variables in the code.
+   
    Step 2:  Run the Main Script
+   
             python main.py
    
 
