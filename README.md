@@ -18,6 +18,7 @@ This project leverages Natural Language Processing (NLP) and machine learning to
    git clone https://github.com/Abdulsamad01/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment.git
 
 2. Navigate to the Project Directory
+   ```bash
    cd Stock-Movement-Analysis-Based-on-Social-Media-Sentiment
 
 3. Install Dependencies
